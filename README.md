@@ -3,14 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a full stack flutter developer...
+I'm a full stack developer
 
 
  
 
 
 ## 🛠 Skills
-Flutter, Firebase ..
+Flutter, Django , React
 
 
 ## 🔗 Links
