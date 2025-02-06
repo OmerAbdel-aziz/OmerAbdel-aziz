@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-## Flutter Developer | Passionate about Mobile Apps
+## React Developer | Passionate about Web and Mobile Apps
 
-👋 Hey there! I'm Omer Abdelaziz, a Flutter developer with a passion for creating elegant and efficient mobile applications. I specialize in building cross-platform apps that deliver seamless user experiences.
+👋 Hey there! I'm Omer Abdelaziz, a React developer with a passion for creating elegant and efficient web & mobile applications. I specialize in building cross-platform apps that deliver seamless user experiences.
 
 ### What I Bring to the Table:
 
