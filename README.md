@@ -9,7 +9,7 @@
 
 - **React & Next.js Expertise:** Proficient in building server-side rendered (SSR) and statically generated (SSG) applications with a focus on performance and SEO.
 - **MERN Stack Exposure:** Skilled in developing full-stack applications using MongoDB, Express.js, React, and Node.js, with a solid understanding of RESTful APIs.
-- **Testing & Debugging:** Experienced in test-driven development using Jest and React Testing Library, ensuring robust code with 85%+ coverage.
+- **Testing & Debugging:** Experienced in test-driven development using Jest and React Testing Library, ensuring robust code.
 - **Problem Solver:** I enjoy tackling complex challenges, optimizing workflows, and delivering scalable solutions.
 - **Collaborator:** Adept at working in agile teams, documenting processes, and leveraging tools like Git for seamless collaboration.
 
